@@ -1,0 +1,11 @@
+#Mac Files
+__pycache__
+.DS_Store
+
+#Test Dirs
+test_imgs/
+RoadTrip2/
+
+#Files
+*.html
+*.txt
