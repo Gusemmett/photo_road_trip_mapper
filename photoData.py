@@ -1,4 +1,4 @@
-#DATETIME FORMAT: 2019:03:28 16:55:44
+#Author : Angus Emmett
 from datetime import datetime
 from PIL import Image
 from PIL.ExifTags import TAGS, GPSTAGS
